@@ -12,9 +12,9 @@ Employee[4]= {name:"Umesh",age:20,salary:"3.4 lpa",address: {city:"Bengaluru", s
 
 
 // to display in console
-console.log("Employee Name :",Employee[4].name); 
-console.log("Age :",Employee[4].age);
-console.log("Salary :",Employee[4].salary);
-console.log("City :",Employee[4].address.city);
-console.log("State :",Employee[4].address.state);
-console.log("Pincode :",Employee[4].address.pincode);
+console.log("Employee Name :",Employee[2].name); 
+console.log("Age :",Employee[2].age);
+console.log("Salary :",Employee[2].salary);
+console.log("City :",Employee[2].address.city);
+console.log("State :",Employee[2].address.state);
+console.log("Pincode :",Employee[2].address.pincode);
